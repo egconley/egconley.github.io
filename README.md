@@ -1,4 +1,4 @@
-# [A](#abacus) | [B](#bees) | [C](#calendar)
+# [A](#abacus) | [B](#bees) | [C](index.html)
 
 ## Abacus
 asdfasdf
